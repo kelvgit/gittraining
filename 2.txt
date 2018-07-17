@@ -1,2 +1,6 @@
 this is in testing branch.
+<<<<<<< HEAD
 this is from master.
+=======
+this is from testing.
+>>>>>>> testing
